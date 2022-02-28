@@ -1,0 +1,34 @@
+.title{
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h3{
+    color: blue;
+    font-style: oblique;
+}
+
+p{
+    color: darkslategrey;
+}
+
+.red{
+    color: firebrick;
+}
+
+.pink{
+    color: blueviolet;
+    list-style-type: circle;
+}
+
+.resizeImg1{
+    height: 200px;
+    float:none;
+}
+
+.resizeImg2{
+    height: 200px;
+    float: right;   
+}
